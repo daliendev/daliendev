@@ -1,11 +1,11 @@
-# Hello world 👋
+# Hello 👋
 
-_Nice to see you here, stranger!_
+_Nice to see you here!_
 
-🔭 Currently working with **Laravel** / **Vue JS** stack   
+🔭 Currently working with **Laravel** / **Vue.js** stack   
     
-📚 Learning **Golang** & **Python**   
-🤔 So I’ll be glad to receive any advice or valuable resources         
+📚 Learning **Python**   
+🤓 So I’ll be glad to receive any advice or valuable resources         
    
 📫 Feel free to use social media below to contact me
 
