@@ -10,7 +10,6 @@ _Nice to see you here!_
 📫 Feel free to use social media below to contact me
 
 [# Linkedin](https://www.linkedin.com/in/daniel-cadeau-dev/)    
-[# Twitter](https://twitter.com/daliendev)    
 [# Mail](mailto:contact@dcadeau.com)    
 
 <a href="https://app.daily.dev/daliendev"><img src="https://api.daily.dev/devcards/v2/zssVvgMLfw0Rq7WlcfcBx.png?type=default&r=xdl" width="356" alt="Daniel Cadeau's Dev Card"/></a>
