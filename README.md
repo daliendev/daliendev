@@ -1,12 +1,8 @@
-# Hello 👋
+👋 Freelance Laravel & Vue.js Developer    
+🛠️ I build web applications and modernize legacy codebases.     
 
-_Nice to see you here!_
+💼 Available for web development projects.
 
-🏢 Currently working with **Laravel** / **Vue.js** stack.   
-  
-🧑‍💻 Also practicing **Python** & **Cybersecurity**.   
-   
-📫 Feel free to use the platforms below to contact me.
-
-[# Linkedin](https://www.linkedin.com/in/daniel-cadeau-dev/)    
+[# Website](https://dcadeau.com/)      
 [# Mail](mailto:contact@dcadeau.com)    
+[# Linkedin](https://www.linkedin.com/in/daniel-cadeau-dev/)    
