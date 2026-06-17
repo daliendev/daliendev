@@ -6,7 +6,7 @@ As a Freelance web developer, I build web applications and modernize legacy code
 
 ## What I Do
 
-- Build web apps from scratch (MVP to production)
+- Build web apps from scratch
 - Refactor and modernize legacy or monolithic codebases
 - Optimize performance, accessibility, and SEO
 - Deliver clean, maintainable, and documented code
