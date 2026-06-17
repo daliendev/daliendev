@@ -1,7 +1,7 @@
-👋 Freelance Laravel & Vue.js Developer    
-🛠️ I build web applications and modernize legacy codebases.     
+👋 Freelance web developer    
+🛠️ I build applications and modernize legacy codebases.     
 
-💼 Available for web development projects.
+💼 Available for your web projects.
 
 [# Website](https://dcadeau.com/)      
 [# Mail](mailto:contact@dcadeau.com)    
