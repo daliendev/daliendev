@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Daniel
+# 👋 Hello
 
 As a Freelance web developer, I build web applications and modernize legacy codebases.  
 
