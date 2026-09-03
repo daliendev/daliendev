@@ -1,4 +1,6 @@
-# 👋 Hello
+<a href="https://dcadeau.com">
+  <img src="https://dcadeau.com/og/og-fr.png" width="600" alt="Daniel Cadeau">
+</a>
 
 As a freelance web developer, I build web applications and modernize legacy codebases. With a strong focus on the Laravel ecosystem and containerized deployments.
 
@@ -13,6 +15,5 @@ As a freelance web developer, I build web applications and modernize legacy code
 
 ---
 
-[# Website](https://dcadeau.com/)      
 [# Mail](mailto:contact@dcadeau.com)    
 [# Linkedin](https://www.linkedin.com/in/daniel-cadeau-dev/)    
