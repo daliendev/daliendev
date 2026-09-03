@@ -1,14 +1,15 @@
 # 👋 Hello
 
-As a Freelance web developer, I build web applications and modernize legacy codebases.  
+As a freelance web developer, I build web applications and modernize legacy codebases. With a strong focus on the Laravel ecosystem and containerized deployments.
 
----
+## Tech Stack
 
-## Tech Toolkit
-
-**PHP · Laravel · TypeScript · Vue.js**
-
-But I don't box myself into a single stack.   
+| Domain | Technologies |
+|--------|--------------|
+| Frontend & UI | TypeScript, Vue.js, React, Inertia.js, Livewire, Alpine.js, Tailwind CSS |
+| Backend | PHP, (Laravel, Symfony), Python (FastAPI) |
+| Infrastructure | Docker, Kubernetes |
+| Databases | MySQL, PostgreSQL |
 
 ---
 
